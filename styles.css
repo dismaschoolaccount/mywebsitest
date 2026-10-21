@@ -1,0 +1,24 @@
+body {
+background-color : #00f4ac
+}
+p {
+font-size :  20px;
+color : pink;
+}
+a {
+color : black;
+text-decoration : none;
+}
+img {
+  display: block;
+  margin: auto;
+  width: 50%;
+}
+.center {
+	text-align: center;
+}
+i {
+	font-style: italic;
+	font-weight: bold;
+	color: #ffff0f;
+}
